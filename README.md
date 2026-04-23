@@ -1,4 +1,5 @@
-<img width="1536" height="1024" alt="Pipeline" src="https://github.com/user-attachments/assets/47424699-40fc-42f1-aae7-fa78db2ce88c" />
+<img width="1536" height="1024" alt="Pipeline" src="https://github.com/user-attachments/assets/29739ed6-ffa4-45d4-b5c4-39f6d64ec284" />
+
 # AI-Powered PDF Semantic Search
 
 This project extracts product data from PDF catalogs and performs intelligent search using AI-based semantic similarity.
