@@ -23,4 +23,4 @@ python main.py
 The original PDF file is excluded due to size limitations.
 
 ## 👤 Author
-Syed Hassan Mujtaba Jafri
+Syed H. Jafri
