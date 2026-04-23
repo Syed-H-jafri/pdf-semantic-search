@@ -1,4 +1,5 @@
-<img width="1536" height="1024" alt="Pipeline" src="https://github.com/user-attachments/assets/29739ed6-ffa4-45d4-b5c4-39f6d64ec284" />
+<img width="1536" height="1024" alt="Pipeline exp" src="https://github.com/user-attachments/assets/de2f3d60-0601-466b-98fc-0c930daa58c5" />
+
 
 # AI-Powered PDF Semantic Search
 
