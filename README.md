@@ -15,9 +15,15 @@ Python | pdfplumber | Sentence Transformers | FAISS | NumPy
 ## ⚙️ How It Works
 PDF → Text Extraction → Data Structuring → Embeddings → FAISS → Query → Top Results
 
+## 📄 Sample PDF
+[Download Product Catalog PDF](https://www.jomarvalve.com/docs/lit-jv-pc.pdf)
+
 ## ▶️ Run
 pip install -r requirements.txt  
-python main.py  
+1. Download the PDF from the link above  
+2. Run the script:
+   python main.py  
+3. Enter the path to the downloaded PDF when prompted 
 
 ## 📌 Note
 The original PDF file is excluded due to size limitations.
